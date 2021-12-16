@@ -52,7 +52,7 @@
 
 ## Miscellanea
 
-* [📰 Social Media](miscellanea/social-media.md)
+* [📰 Social Media](miscellanea/social-media-en.md)
 * [📜 Audit Report](miscellanea/audit-report.md)
 * [🛃 Legal notice](miscellanea/legal-notice/README.md)
   * [Disclaimer](miscellanea/legal-notice/disclaimer.md)
