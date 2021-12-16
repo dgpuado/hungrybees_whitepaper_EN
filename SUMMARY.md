@@ -54,5 +54,4 @@
 
 * [📰 Social Media](miscellanea/social-media-en.md)
 * [📜 Audit Report](miscellanea/audit-report.md)
-* [🛃 Legal notice](miscellanea/legal-notice/README.md)
-  * [Page 1 - Terms](miscellanea/legal-notice/page-1-terms.md)
+* [🛃 Legal notice](miscellanea/legal-notice.md)
