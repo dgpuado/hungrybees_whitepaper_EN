@@ -2,8 +2,8 @@
 
 Gaming modes are divided into two different sections:
 
-{% content-ref url="farming-mode.md" %}
-[farming-mode.md](farming-mode.md)
+{% content-ref url="farming-mode/" %}
+[farming-mode](farming-mode/)
 {% endcontent-ref %}
 
 {% content-ref url="combat-mode.md" %}

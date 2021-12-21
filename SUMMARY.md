@@ -22,7 +22,10 @@
   * [💢 Rarities](game-pillars/assets/rarities.md)
   * [🎀 Breeding](game-pillars/assets/breeding.md)
 * [▶ Gaming modes](game-pillars/gaming-modes/README.md)
-  * [👨🌾 Farming mode](game-pillars/gaming-modes/farming-mode.md)
+  * [👨🌾 Farming mode](game-pillars/gaming-modes/farming-mode/README.md)
+    * [🏡 Gardens and plants](game-pillars/gaming-modes/farming-mode/gardens-and-plants.md)
+    * [🍯 Honey Boosters](game-pillars/gaming-modes/farming-mode/honey-boosters.md)
+    * [🧪 Technology Trees](game-pillars/gaming-modes/farming-mode/technology-trees.md)
   * [👊 Combat mode](game-pillars/gaming-modes/combat-mode.md)
 
 ## 🤑 Rewards

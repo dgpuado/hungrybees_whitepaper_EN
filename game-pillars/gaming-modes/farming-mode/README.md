@@ -8,7 +8,7 @@ Beekeepers must protect their hives and bees from unpredictable weather and coun
 
 In order to keep the usual honey production, each bee must be fed with 1 unit of lithium supplement and 2 units of liquid hydrogen every 12 hours. In the case that it is not done, the honey production of that bee will be stopped and the production will be lost until the beekeeper feeds it.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7).png>)
 
 On the other hand, seasons of the year will play a major role in the production of the hives. Exactly as it happens in real life, production will be higher in the seasons with better weather for the bees. In the world of HungryBees, seasons are 4 days long, so approximately one month in real life is equivalent to 2 years for our bees.
 
@@ -54,10 +54,10 @@ Within the farming mode, there will be the possibility of obtaining permanent be
 
 Military path: by researching these technologies, beekeepers will have permanent advantages in the combat game mode (boost in the qualities of the bees in their hive).
 
-![](<../../.gitbook/assets/Tecno Militar ENG.png>)
+![](<../../../.gitbook/assets/Tecno Militar ENG.png>)
 
 Scientific path: these technologies will allow beekeepers to obtain advantages in the farming mode (lower costs of honey production, protections against adverse weather, etc).
 
-![](<../../.gitbook/assets/Tecno Civil ENG.png>)
+![](<../../../.gitbook/assets/Tecno Civil ENG.png>)
 
 All of these arts and sciences will have an opportunity cost, as some research time will be required before unlocking more innovative technologies. In addition, unlocking them will have a certain cost in HBEE, since the investigators will have to have a budget to be able to achieve the objectives.
