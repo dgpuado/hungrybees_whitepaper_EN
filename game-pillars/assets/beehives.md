@@ -2,6 +2,8 @@
 
 On the other hand, beekeepers will also have the possibility of acquiring hives to take care of their bees. In this case, hives are divided into three types depending on their rarity. Its rarity will determine the number of bees that can be kept inside of the hives. It should be noted that each beekeeper will be given a free hive with 3 empty slots for bees. The maximum number of queen bees per hive will be 1, and it should be placed in the central slot of the hive.
 
+Each beekeeper will be able to own a maximum of 5 hives at the same time, being able to use only one of them to generate the production of his bees.
+
 #### Free
 
 It is able to contain a maximum of 3 bees. The central slot is reserved for a queen bee, if available, but cannot be occupied by any other type of bee.
