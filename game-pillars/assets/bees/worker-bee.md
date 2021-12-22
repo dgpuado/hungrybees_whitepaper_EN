@@ -14,7 +14,7 @@ The skill table of worker bees according to their rarity is the following:
 
 |            | Máx. | Min  |
 | ---------- | ---- | ---- |
-| #HHON/hour | 8,46 | 7,85 |
+| #HHON/hour | 9,79 | 9,58 |
 | Defense    | 155  | 150  |
 | Attack     | 60   | 55   |
 | Movement   | 1    | 1    |
@@ -25,27 +25,27 @@ The skill table of worker bees according to their rarity is the following:
 
 ![](<../../../.gitbook/assets/image (61).png>)
 
-|            | Máx. | Min  |
-| ---------- | ---- | ---- |
-| #HHON/hour | 8,99 | 8,64 |
-| Defense    | 160  | 155  |
-| Attack     | 60   | 65   |
-| Movement   | 1    | 1    |
-| Speed      | 3    | 3    |
-| Range      | 2    | 1    |
+|            | Máx.  | Min  |
+| ---------- | ----- | ---- |
+| #HHON/hour | 10,11 | 9,96 |
+| Defense    | 160   | 155  |
+| Attack     | 60    | 65   |
+| Movement   | 1     | 1    |
+| Speed      | 3     | 3    |
+| Range      | 2     | 1    |
 
 #### Epic
 
 ![](<../../../.gitbook/assets/image (52).png>)
 
-|            | Máx.  | Min  |
-| ---------- | ----- | ---- |
-| #HHON/hour | 10,06 | 9,09 |
-| Defense    | 165   | 160  |
-| Attack     | 70    | 65   |
-| Movement   | 1     | 1    |
-| Speed      | 4     | 4    |
-| Range      | 2     | 2    |
+|            | Máx.  | Min   |
+| ---------- | ----- | ----- |
+| #HHON/hour | 12,28 | 11,74 |
+| Defense    | 165   | 160   |
+| Attack     | 70    | 65    |
+| Movement   | 1     | 1     |
+| Speed      | 4     | 4     |
+| Range      | 2     | 2     |
 
 #### Legendary
 
@@ -53,7 +53,7 @@ The skill table of worker bees according to their rarity is the following:
 
 |            | Máx.  | Min   |
 | ---------- | ----- | ----- |
-| #HHON/hour | 11,73 | 10,08 |
+| #HHON/hour | 19,65 | 15,22 |
 | Defense    | 175   | 165   |
 | Attack     | 80    | 70    |
 | Movement   | 2     | 2     |
