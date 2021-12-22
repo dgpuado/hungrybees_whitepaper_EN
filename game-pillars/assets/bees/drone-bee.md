@@ -12,27 +12,27 @@ The following table shows the minimum and maximum ranges of the production that 
 
 
 
-|            | Máx. | Min  |
-| ---------- | ---- | ---- |
-| #HHON/hour | 8,87 | 8,56 |
-| Defense    | 130  | 125  |
-| Attack     | 45   | 40   |
-| Movement   | 2    | 1    |
-| Speed      | 5    | 5    |
-| Range      | 3    | 2    |
+|            | Máx.  | Min   |
+| ---------- | ----- | ----- |
+| #HHON/hour | 10,46 | 10,24 |
+| Defense    | 130   | 125   |
+| Attack     | 45    | 40    |
+| Movement   | 2     | 1     |
+| Speed      | 5     | 5     |
+| Range      | 3     | 2     |
 
 #### Rare
 
 ![](<../../../.gitbook/assets/image (48).png>)
 
-|            | Máx.  | Min  |
-| ---------- | ----- | ---- |
-| #HHON/hour | 10,02 | 9,06 |
-| Defense    | 135   | 130  |
-| Attack     | 50    | 45   |
-| Movement   | 2     | 1    |
-| Speed      | 6     | 6    |
-| Range      | 3     | 2    |
+|            | Máx.  | Min   |
+| ---------- | ----- | ----- |
+| #HHON/hour | 10,93 | 10,64 |
+| Defense    | 135   | 130   |
+| Attack     | 50    | 45    |
+| Movement   | 2     | 1     |
+| Speed      | 6     | 6     |
+| Range      | 3     | 2     |
 
 #### Epic
 
@@ -40,7 +40,7 @@ The following table shows the minimum and maximum ranges of the production that 
 
 |            | Máx.  | Min   |
 | ---------- | ----- | ----- |
-| #HHON/hour | 12,17 | 10,84 |
+| #HHON/hour | 13,54 | 12,71 |
 | Defense    | 140   | 135   |
 | Attack     | 55    | 50    |
 | Movement   | 3     | 2     |
@@ -53,7 +53,7 @@ The following table shows the minimum and maximum ranges of the production that 
 
 |            | Máx.  | Min   |
 | ---------- | ----- | ----- |
-| #HHON/hour | 16,25 | 12,74 |
+| #HHON/hour | 26,12 | 24,07 |
 | Defense    | 155   | 145   |
 | Attack     | 65    | 55    |
 | Movement   | 3     | 3     |
