@@ -12,14 +12,14 @@ Attached below are tables showing the ability and production ranges of queen bee
 
 ![](<../../../.gitbook/assets/image (8).png>)
 
-|            | Max   | Min  |
-| ---------- | ----- | ---- |
-| #HHON/hour | 10,89 | 9,62 |
-| Defense    | 205   | 200  |
-| Attack     | 40    | 35   |
-| Movement   | 3     | 2    |
-| Speed      | 1     | 1    |
-| Range      | 2     | 1    |
+|            | Max   | Min   |
+| ---------- | ----- | ----- |
+| #HHON/hour | 11,33 | 10,95 |
+| Defense    | 205   | 200   |
+| Attack     | 40    | 35    |
+| Movement   | 3     | 2     |
+| Speed      | 1     | 1     |
+| Range      | 2     | 1     |
 
 #### Rare
 
@@ -29,7 +29,7 @@ Attached below are tables showing the ability and production ranges of queen bee
 
 |            | Max   | Min   |
 | ---------- | ----- | ----- |
-| #HHON/hour | 12,35 | 11,04 |
+| #HHON/hour | 14,54 | 13,28 |
 | Defense    | 210   | 205   |
 | Attack     | 45    | 50    |
 | Movement   | 3     | 3     |
@@ -44,7 +44,7 @@ Attached below are tables showing the ability and production ranges of queen bee
 
 |            | Max   | Min   |
 | ---------- | ----- | ----- |
-| #HHON/hour | 15,55 | 13,39 |
+| #HHON/hour | 20,30 | 17,90 |
 | Defense    | 220   | 215   |
 | Attack     | 55    | 50    |
 | Movement   | 4     | 3     |
@@ -59,7 +59,7 @@ Attached below are tables showing the ability and production ranges of queen bee
 
 |            | Max   | Min   |
 | ---------- | ----- | ----- |
-| #HHON/hour | 23,92 | 18,74 |
+| #HHON/hour | 32,13 | 27,84 |
 | Defense    | 225   | 225   |
 | Attack     | 65    | 55    |
 | Movement   | 4     | 4     |
