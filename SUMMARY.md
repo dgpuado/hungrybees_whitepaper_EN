@@ -21,6 +21,7 @@
   * [🍯 Game items](game-pillars/assets/game-items.md)
   * [💢 Rarities](game-pillars/assets/rarities.md)
   * [🎀 Breeding](game-pillars/assets/breeding.md)
+  * [🎁 Honeyboxes](game-pillars/assets/honeyboxes.md)
 * [▶ Gaming modes](game-pillars/gaming-modes/README.md)
   * [👨🌾 Farming mode](game-pillars/gaming-modes/farming-mode/README.md)
     * [🏡 Gardens and plants](game-pillars/gaming-modes/farming-mode/gardens-and-plants.md)
