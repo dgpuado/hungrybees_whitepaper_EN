@@ -20,4 +20,4 @@ Honeyboxes will have a cost of 150 HHON and there will be a maximum of 100,000 b
 | Lithium Supplement | 12,000   |
 | Magnetic Field     | 12,000   |
 
-![](../../.gitbook/assets/Honeybox.png)
+![HONEYBOX](../../.gitbook/assets/Honeybox.png)
