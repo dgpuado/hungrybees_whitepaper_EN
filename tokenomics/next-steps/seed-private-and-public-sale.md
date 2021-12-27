@@ -27,4 +27,4 @@ Through different Launchpads (pending confirmation), we will make our token #HBE
 
 Once this first public sale subphase finishes, our token will be listed on various decentralized exchanges (DEX). As a first step, a liquidity pool (LP) will be created in PancakeSwap. In order to create this liquidity pool, the team will provision BNB in PancakeSwap, blocking this amount for at least 12 months. It will allow the token to be given liquidity over time. All this process will make it possible for the tokens to be always available for their exchanging on the Exchange, so you will be free to decide what to do with your tokens.
 
-![](../../.gitbook/assets/token.png)
+![](<../../.gitbook/assets/image (10).png>)
