@@ -49,7 +49,7 @@ The following table shows the minimum and maximum ranges of the production that 
 
 #### Legendary
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 |            | Máx.  | Min   |
 | ---------- | ----- | ----- |

@@ -45,9 +45,8 @@
 
 * [📈 Tokenomics](tokenomics/tokenomics.md)
 * [🌐 Distribution](tokenomics/distribution.md)
-* [🗓 Next steps](tokenomics/next-steps/README.md)
-  * [🌱 Community funding](tokenomics/next-steps/community-funding.md)
-  * [🚨 Seed, Private & Public Sale](tokenomics/next-steps/seed-private-and-public-sale.md)
+* [🌱 Community funding](tokenomics/community-funding.md)
+* [🚨 Seed, Private & Public Sale](tokenomics/seed-private-and-public-sale.md)
 
 ## Team & Roadmap
 
