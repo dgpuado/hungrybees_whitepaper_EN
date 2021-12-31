@@ -14,9 +14,9 @@ In the following table, we describe the different items in which we categorize t
 | Private Pre-Sale     | 1,75% | 34% Released at TGE\*, then linear vesting over the next 6 months (11% per month)              |
 | Public Pre-Sale      | 3,75% | 34% Released at TGE\*, then linear vesting over the next 6 months (11% per month) - Launchpad  |
 | Marketing            | 5,0%  | 10% Released at TGE\*, then linear vesting over the next 12 months (7,5% per month)            |
-| ESG Donations        | 3,0%  | 4% Released at TGE\*, then linear vesting over the next 12 months (8% per month)               |
+| ESG Donations        | 3,0%  | 10% Released at TGE\*, then linear vesting over the next 12 months (7.5% per month)            |
 | Listing              | 5,0%  | No vesting                                                                                     |
-| Play to Earn Rewards | 65,0% | No vesting                                                                                     |
+| Play to Earn Rewards | 63,0% | No vesting                                                                                     |
 | Advisors             | 2,5%  | 10% Released at TGE\*, then linear vesting over the next 12 months (7,5% per month)            |
 | Team                 | 15%   | 1% Released at TGE\*, month 1 to 3, 1% each month, then linear vesting over the next 24 months |
 
