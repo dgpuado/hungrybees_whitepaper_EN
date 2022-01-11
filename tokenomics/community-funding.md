@@ -4,26 +4,28 @@ In order to accelerate the development of the game and the community, we decided
 
 These will be the main benefits of your support for the initiative:
 
-#### 0.1 BNB (2000 slots)
+#### 0.3 BNB (800 slots)
 
-Priority & discounted access to NFT whitelist (1 bee & 1 beehive)
+* Priority access to token whitelist (max 2.500 tokens)
+* Priority & discounted access to NFT whitelist (2 NFTs – 1 bee & 1 beehive)
+* Small Lootbox:  HoneyBox
 
 #### 0.5 BNB (750 slots)
 
 * Priority access to token whitelist (max 5.000 tokens)
 * Priority & discounted access to NFT whitelist (2 NFTs – 1 bee & 1 beehive)
-* Big Loot box: 8 Honey Box
+* Big Lootbox: 8 HoneyBox
 * 1 bee larva
 
 #### 1 BNB (250 slots)
 
 * Priority access to token whitelist (max 7.500 tokens)
 * Priority & discounted access to NFT whitelist (2 NFTs – 1 bee & 1 beehive)
-* Big Loot box: 16 Honey Box
+* Mega Lootbox: 16 HoneyBox
 * 1 bee larva
 * 1 beehive
 
-![](<../../.gitbook/assets/image (62).png>)
+![](<../.gitbook/assets/image (62).png>)
 
 **How will we do it?**
 
