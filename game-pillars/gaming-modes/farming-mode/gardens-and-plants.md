@@ -6,7 +6,7 @@ Gardens are places where you can grow plants of different types that bees will h
 
 ### Plants
 
-The plants can be grown in the gardens to obtain honeys of different flavors. You can find 5 different types of plants depending on their characteristics, the mineral and, therefore, the honey they produce, as well as the quality of the bee that they temporarily improve.
+The plants can be grown in the gardens to obtain honey of different flavors. You can find 5 different types of plants depending on their characteristics, the mineral and, therefore, the honey they produce, as well as the quality of the bee that they temporarily improve. The price of the plants will be 75 HHON.
 
 | Plant       | Honey          |          |
 | ----------- | -------------- | -------- |
