@@ -18,4 +18,4 @@ This metaverse will allow merging both real and virtual worlds, being able to ex
 
 
 
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (36) (1).png>)
