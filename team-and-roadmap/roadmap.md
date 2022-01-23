@@ -16,14 +16,15 @@ Below is described the different stages hungryBees will have, including informat
 * [x] Social media presence
 * [x] Community building
 * [x] Collaboration with influencers
-* [ ] Community funding
-* [ ] Token contract Audit
+* [x] Community funding
+* [x] Token contract Audit
 
 #### Q1 2022
 
 * [ ] Token Presale (Seed, Private, Public)
 * [ ] Listing on Pancakeswap
 * [ ] ESG Community expansion
+* [ ] Sustainable NFT Gallery
 * [ ] Partnerships with ESG and gaming
 * [ ] Launch of Farming version
 * [ ] NFT Gaming Marketplace development
