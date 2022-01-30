@@ -14,7 +14,7 @@ We have been awarded with a 10 score in TokenGuard audit
 
 You can see the details at this link
 
-{% embed url="https://tokenguard.io/ratings/63c6f8e4-b508-4ede-84b0-d40dc2cee623" %}
+{% embed url="https://tokenguard.io/ratings/hbee" %}
 
 ### What is TokenGuard?
 
