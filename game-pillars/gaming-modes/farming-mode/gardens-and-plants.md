@@ -4,6 +4,8 @@
 
 Gardens are places where you can grow plants of different types that bees will have to pollinate to get honey of different flavors. This honey will temporarily increase the qualities of the bees and can be used in combat game modes to gain advantages over your opponents. Gardens, unlike hives and bees, will NOT be NFTs but will be items that can be purchased in the in-game shop. Each garden will have space to grow 5 plants at the same time.&#x20;
 
+![](<../../../.gitbook/assets/HBEE Garden (1).jpeg>)
+
 ### Plants
 
 The plants can be grown in the gardens to obtain honey of different flavors. You can find 5 different types of plants depending on their characteristics, the mineral and, therefore, the honey they produce, as well as the quality of the bee that they temporarily improve. The price of the plants will be 75 HHON.
