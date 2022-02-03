@@ -8,7 +8,7 @@ Beekeepers must protect their hives and bees from unpredictable weather and coun
 
 In order to keep the usual honey production, each bee must be fed with 1 unit of lithium supplement and 2 units of liquid hydrogen every 12 hours. In the case that it is not done, the honey production of that bee will be stopped and the production will be lost until the beekeeper feeds it.
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/HBEE Hive.jpeg>)
 
 On the other hand, seasons of the year will play a major role in the production of the hives. Exactly as it happens in real life, production will be higher in the seasons with better weather for the bees. In the world of HungryBees, seasons are 4 days long, so approximately one month in real life is equivalent to 2 years for our bees.
 
