@@ -6,7 +6,7 @@ Beekeepers must protect their hives and bees from unpredictable weather and coun
 
 ### Farming Characteristics
 
-In order to keep the usual honey production, each bee must be fed with 1 unit of lithium supplement and 2 units of liquid hydrogen every 12 hours. In the case that it is not done, the honey production of that bee will be stopped and the production will be lost until the beekeeper feeds it.
+In order to keep the usual honey production, each bee must be fed with 1 unit of lithium supplement and 2 units of liquid hydrogen every 12 hours (2 and 4 units respectively every 24 hours). In the case that it is not done, the honey production of that bee will be stopped and the production will be lost until the beekeeper feeds it.
 
 ![](<../../../.gitbook/assets/HBEE Hive.jpeg>)
 
