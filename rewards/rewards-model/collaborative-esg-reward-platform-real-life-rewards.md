@@ -58,6 +58,8 @@ Below, we show a table where we describe the advantages or benefits by category,
 
 |                                                            | Bronze | Silver | Gold | Platinum |
 | ---------------------------------------------------------- | ------ | ------ | ---- | -------- |
-| Minimum of #HBEE in user wallet                            | 1      | 10     | 100  | 1000     |
+| Minimum of #HBEE in user wallet                            | 100    | 1000   | 5000 | 10000    |
 | Minimum of NTFs in user wallet                             | 1      | 2      | 5    | 10       |
 | Number of sustainable actions to upgrade to the next level | 5      | 10     | 25   | 35       |
+| Minimum of NFT from ESG NFT Gallery in user wallet         | 0      | 1      | 3    | 5        |
+
