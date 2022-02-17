@@ -8,36 +8,36 @@ We break down the events by season in order to shed some light on the consequenc
 
 #### SPRING&#x20;
 
-| Event           | Consequence            | Duration                                                |
-| --------------- | ---------------------- | ------------------------------------------------------- |
-| Virus (Bee-rus) | 80% loss of production | Indefinite duration if no Retrobeeral is used           |
-| Bear            | 75% loss of production | 12 hours if no Magnetic Field or Plasma Cannon are used |
-| Locust          | 40% loss of production | 12 hours if no Laser is used                            |
+| Event           | Consequence             | Duration                                                 |
+| --------------- | ----------------------- | -------------------------------------------------------- |
+| Virus (Bee-rus) | 80% loss of production. | Indefinite duration if no Retrobeeral is used.           |
+| Bear            | 75% loss of production. | 24 hours if no Magnetic Field or Plasma Cannon are used. |
+| Locust          | 40% loss of production. | 24 hours if no Laser is used.                            |
 
 #### SUMMER
 
-| Event        | Consequence                   | Duration                                                |
-| ------------ | ----------------------------- | ------------------------------------------------------- |
-| Solar Plasma | Production stopped for 2 days | Avoided by using the Deflector Shield.                  |
-| Sandstorm    | 40% loss of production        | Avoided by using the Deflector Shield.                  |
-| Bear         | 75% loss of production        | 12 hours if no Magnetic Field or Plasma Cannon are used |
-| Locust       | 40% loss of production        | 12 hours if no Laser is used                            |
+| Event        | Consequence                                     | Duration                                                 |
+| ------------ | ----------------------------------------------- | -------------------------------------------------------- |
+| Solar Plasma | Production stopped during the day of the event. | Avoided by using the Deflector Shield.                   |
+| Sandstorm    | 40% loss of production.                         | Avoided by using the Deflector Shield.                   |
+| Bear         | 75% loss of production.                         | 24 hours if no Magnetic Field or Plasma Cannon are used. |
+| Locust       | 40% loss of production.                         | 24 hours if no Laser is used.                            |
 
 #### AUTUMN&#x20;
 
-| Event                | Consequence            | Duration                                                |
-| -------------------- | ---------------------- | ------------------------------------------------------- |
-| Acid rain            | 60% loss of production | Avoided by using the Deflector Shield.                  |
-| Radioactive Blizzard | 70% loss of production | Avoided by using the Deflector Shield.                  |
-| Bear                 | 75% loss of production | 12 hours if no Magnetic Field or Plasma Cannon are used |
+| Event                | Consequence             | Duration                                                 |
+| -------------------- | ----------------------- | -------------------------------------------------------- |
+| Acid rain            | 60% loss of production  | Avoided by using the Deflector Shield.                   |
+| Radioactive Blizzard | 70% loss of production  | Avoided by using the Deflector Shield.                   |
+| Bear                 | 75% loss of production. | 24 hours if no Magnetic Field or Plasma Cannon are used. |
 
 #### WINTER
 
-| Event          | Consequence                   | Duration                                                                  |
-| -------------- | ----------------------------- | ------------------------------------------------------------------------- |
-| Stellar Debris | 60% loss of production        | Avoided by using the Deflector Shield.                                    |
-| Glacial Stone  | 60% loss of production        | Avoided by using the Deflector Shield.                                    |
-| Frostbite      | Production stopped for 2 days | 2 days if no Thermal Sphere is used within 5 hours of the event appearing |
+| Event          | Consequence                                     | Duration                               |
+| -------------- | ----------------------------------------------- | -------------------------------------- |
+| Stellar Debris | 60% loss of production.                         | Avoided by using the Deflector Shield. |
+| Glacial Stone  | 60% loss of production.                         | Avoided by using the Deflector Shield. |
+| Frostbite      | Production stopped during the day of the event. | Avoided by using the Thermal Sphere.   |
 
 &#x20;
 
@@ -53,5 +53,7 @@ The following table shows the items that can be found in the in-game store to ne
 | Retrobeeral        | 15 HHON | 3 units   | Eliminates the Virus (Bee-rus) immediately and restores the health of the bees.              |
 | Deflector Shield   | 15 HHON | 5 units   | Protects against Radioactive Blizzard, Solar Plasma, Space Debris, and Glacial Stone events. |
 | Thermal Sphere     | 15 HHON | 12 units  | Protects against weather such as Frostbite.                                                  |
+
+All events, if they appear, will last for one day (00:00 UTC - 23:59 UTC).
 
 ![](<../../.gitbook/assets/image (37).png>)
