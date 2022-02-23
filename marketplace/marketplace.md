@@ -16,7 +16,7 @@ Additionally, we will enable a system to check the status of your donation and c
 
 #### NFT prices
 
-The prices of the NFTs will remain stable in their initial sale until all of them will be purchased by the beekeepers, setting a price of 150 #HBEE for the bees and 1500 #HBEE for the hives. However, during pre-sales, the price will drop to 120 #HBEE and 1200 #HBEE respectively. Both the hives and the bees (larvae) will be acquired in their first sale in a random format. It won´t be possible to select the type and rarity of NFT that a beekeeper wants to acquire.
+The prices of the NFTs will remain stable in their initial sale until all of them will be purchased by the beekeepers, setting a price of 150 #HBEE for the bees (max 25 bees per wallet) and 1500 #HBEE for the hives (max 5 hives per wallet). However, during pre-sales, the price will drop to 120 #HBEE and 1200 #HBEE respectively. Both the hives and the bees (larvae) will be acquired in their first sale in a random format. It won´t be possible to select the type and rarity of NFT that a beekeeper wants to acquire.
 
 After concluding the initial sale of the NFTs, these can only be exchanged between users of the community through our Marketplace.
 
