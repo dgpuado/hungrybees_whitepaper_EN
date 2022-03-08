@@ -43,23 +43,23 @@ Below, we show a table where we describe the advantages or benefits by category,
 
 ### Benefits/Rewards
 
-|                                                          | Bronze | Silver     | Gold                                  | Platinum                            |
-| -------------------------------------------------------- | ------ | ---------- | ------------------------------------- | ----------------------------------- |
-| Farming Improvements                                     | 0      | 0          | <p>+0,5% </p><p> daily collection</p> | <p>+1%</p><p>recolección diaria</p> |
-| Priority access to the game                              | NO     | YES (BETA) | YES                                   | SI                                  |
-| In game booster                                          | 1 item | 3 items    | 6 items                               | 10 items                            |
-| Straight rewards in tokens for each action (#HHONS)      | 20     | 35         | 50                                    | 75                                  |
-| Access to the VIP channel                                | NO     | NO         | YES                                   | YES                                 |
-| Access to ecosystem´s promotions, services, and products | YES    | YES        | YES (premium)                         | SI (gratuito)                       |
+|                                                          | No Badge | Bronze | Silver     | Gold                                  | Platinum                            |
+| -------------------------------------------------------- | -------- | ------ | ---------- | ------------------------------------- | ----------------------------------- |
+| Farming Improvements                                     | 0        | 0      | 0          | <p>+0,5% </p><p> daily collection</p> | <p>+1%</p><p>recolección diaria</p> |
+| Priority access to the game                              | NO       | NO     | YES (BETA) | YES                                   | SI                                  |
+| In game booster                                          | 0        | 1 item | 3 items    | 6 items                               | 10 items                            |
+| Straight rewards in tokens for each action (#HHONS)      | 1.000    | 20     | 35         | 50                                    | 75                                  |
+| Access to the VIP channel                                | NO       | NO     | NO         | YES                                   | YES                                 |
+| Access to ecosystem´s promotions, services, and products | NO       | YES    | YES        | YES (premium)                         | SI (gratuito)                       |
 
 ### Requirements
 
 
 
-|                                                            | Bronze | Silver | Gold | Platinum |
-| ---------------------------------------------------------- | ------ | ------ | ---- | -------- |
-| Minimum of #HBEE in user wallet                            | 100    | 1000   | 5000 | 10000    |
-| Minimum of NTFs in user wallet                             | 1      | 2      | 5    | 10       |
-| Number of sustainable actions to upgrade to the next level | 5      | 10     | 25   | 35       |
-| Minimum of NFT from ESG NFT Gallery in user wallet         | 0      | 1      | 3    | 5        |
+|                                                            | No Badge | Bronze | Silver | Gold  | Platinum |
+| ---------------------------------------------------------- | -------- | ------ | ------ | ----- | -------- |
+| Minimum of #HBEE in user wallet                            | 50       | 250    | 1.000  | 5.000 | 10.000   |
+| Minimum of NTFs in user wallet                             | 1        | 2      | 3      | 5     | 10       |
+| Number of sustainable actions to upgrade to the next level | 0        | 5      | 10     | 25    | 35       |
+| Minimum of NFT from ESG NFT Gallery in user wallet         | 0        | 0      | 1      | 3     | 5        |
 
