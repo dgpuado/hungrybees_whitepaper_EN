@@ -36,7 +36,7 @@ Avoid SCAMS
 * Legally advised by Ferrer-Bonsoms & Sanjurjo, Abogados, lawyers specialized in Blockchain, smartcontracts, ICO and digital contracts ([https://ferrer-bonsoms.com/](https://ferrer-bonsoms.com))
 * ICO will be lanched on spanish jurisdiction. Forget tax heavens
 * Always follow our official channels
-  * ![](<.gitbook/assets/image (3).png>)  [Discord](https://discord.gg/wxmA4YVRgC)
-  * &#x20;![](<.gitbook/assets/image (43).png>)   [Instagram](https://instagram.com/hungrybees\_io)
-  * &#x20;![](<.gitbook/assets/image (26).png>)  [Twitter](https://twitter.com/Hungrybees\_io)
+  * <img src=".gitbook/assets/image (3).png" alt="" data-size="line">  [Discord](https://discord.gg/wxmA4YVRgC)
+  * &#x20;<img src=".gitbook/assets/image (43).png" alt="" data-size="line">   [Instagram](https://instagram.com/hungrybees\_io)
+  * &#x20;<img src=".gitbook/assets/image (26).png" alt="" data-size="line">  [Twitter](https://twitter.com/Hungrybees\_io)
 {% endhint %}

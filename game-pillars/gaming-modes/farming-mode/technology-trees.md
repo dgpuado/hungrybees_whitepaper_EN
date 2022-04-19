@@ -6,10 +6,10 @@ Within the farming mode, there will be the possibility of obtaining permanent be
 
 Military path: by researching these technologies, beekeepers will have permanent advantages in the combat game mode (boost in the qualities of the bees in their hive).
 
-![](<../../../.gitbook/assets/Tecno Militar ENG.png>)
+![](<../../../.gitbook/assets/Captura de pantalla 2022-04-19 a las 17.59.32.png>)
 
 Scientific path: these technologies will allow beekeepers to obtain advantages in the farming mode (lower costs of honey production, protections against adverse weather, etc).
 
-![](<../../../.gitbook/assets/Tecno Civil ENG.png>)
+![](<../../../.gitbook/assets/Captura de pantalla 2022-04-19 a las 17.59.27.png>)
 
 All of these arts and sciences will have an opportunity cost, as some research time will be required before unlocking more innovative technologies. In addition, unlocking them will have a certain cost in HBEE, since the investigators will have to have a budget to be able to achieve the objectives.
