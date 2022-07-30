@@ -32,11 +32,11 @@ By creating a virtual community, through a DApp (Distributed App), a "Play to Ea
 Avoid SCAMS
 
 * HungreeBees is a trusted ESG metaverse
-* Member of The Blockchain Arbitration Society, world's first virtual crypto jurisdiction ([https://theblockchainarbitration.com/](https://theblockchainarbitration.com))
-* Legally advised by Ferrer-Bonsoms & Sanjurjo, Abogados, lawyers specialized in Blockchain, smartcontracts, ICO and digital contracts ([https://ferrer-bonsoms.com/](https://ferrer-bonsoms.com))
+* Member of The Blockchain Arbitration Society, world's first virtual crypto jurisdiction ([https://theblockchainarbitration.com/](https://theblockchainarbitration.com/))
+* Legally advised by Ferrer-Bonsoms & Sanjurjo, Abogados, lawyers specialized in Blockchain, smartcontracts, ICO and digital contracts ([https://ferrer-bonsoms.com/](https://ferrer-bonsoms.com/))
 * ICO will be lanched on spanish jurisdiction. Forget tax heavens
 * Always follow our official channels
   * <img src=".gitbook/assets/image (3).png" alt="" data-size="line">  [Discord](https://discord.gg/wxmA4YVRgC)
-  * &#x20;<img src=".gitbook/assets/image (43).png" alt="" data-size="line">   [Instagram](https://instagram.com/hungrybees\_io)
+  * &#x20;<img src=".gitbook/assets/image (43).png" alt="" data-size="line">   [Instagram](https://instagram.com/hungrybees\_io?utm\_medium=copy\_link)
   * &#x20;<img src=".gitbook/assets/image (26).png" alt="" data-size="line">  [Twitter](https://twitter.com/Hungrybees\_io)
 {% endhint %}

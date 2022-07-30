@@ -48,10 +48,9 @@
 * [🌱 Community funding](tokenomics/community-funding.md)
 * [🚨 Seed, Private & Public Sale](tokenomics/seed-private-and-public-sale.md)
 
-## Team & Roadmap
+## Roadmap
 
-* [📆 Roadmap](team-and-roadmap/roadmap.md)
-* [👨💼 Team & Partners](team-and-roadmap/team-and-partners.md)
+* [📆 Roadmap](roadmap/roadmap.md)
 
 ## Miscellanea
 
