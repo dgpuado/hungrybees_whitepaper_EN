@@ -22,6 +22,10 @@ Its making available and use does not imply, in any case, the transfer of owners
 
 The inclusion in the portal https://hungrybees.io/ of links or links to other portals is for informational purposes only and does not imply that HUNGRYBEES recommends and/or guarantees said portals, over which it does not exercise any control, nor is it responsible for their content.
 
+#### CESSATION OF ACTIVITY
+
+In the event that for economic, technical, productive, organizational or market situation reasons, it is determined that it is unfeasible to continue the activity and the provision of services, an asset repurchase compensation mechanism will be implemented. This mechanism has the purpose of returning to the users the tokens (Utility tokens) that they used for access to the different services, and that, due to the cessation of activity, they cease to be available. To do this, a massive and total repurchase of the project assets (bees, hives...) will be made, delivering in exchange, at least, the same amount of tokens (HBEE) that the user used to its acquisition. Upon receiving this compensation mechanism, the user desists from filing any claim, litigation or arbitration, accepting the agreement and the cessation of activity.
+
 ### Cookies policy
 
 #### What are cookies?
